@@ -1,6 +1,6 @@
 # no_title
 
-![no_title](https://img.youtube.com/vi/PuanXdWOKhI/0.jpg)
+![no_title](https://github.com/inteiros/no_title/blob/main/Assets/Icon/no_title.png)
 
 ## Description
 
