@@ -12,7 +12,7 @@ public class scriptCamera : MonoBehaviour
 
     void Start()
     {
-        velRotX = 200;
+        velRotX = 300;
         rotIniX = transform.localRotation;
         Cursor.lockState = CursorLockMode.Locked;
     }

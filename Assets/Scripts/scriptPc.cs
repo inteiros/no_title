@@ -42,7 +42,7 @@ public class scriptPc : MonoBehaviour
 
         tiroManager = GetComponent<Tiros>();
 
-        velRotY = 200;
+        velRotY = 300;
         onGround = true;
         StartCoroutine(EnableShootingAfterDelay(5f));
     }
