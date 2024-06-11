@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db786b94e250b3e46bee4e406c307bce, type: 3}
+  m_Name: CharacterPlayer
+  m_EditorClassIdentifier: 
+  UniqueId: bc9f8dd8-fb2d-4e11-9d3f-aee09a6689f2
+  Name: Maverick Thompson
+  Prefab: {fileID: 2384351572675504119, guid: c30a1610a30a2ad42ae640f41ff1e047, type: 3}
+  InitialInventory:
+  - Item: {fileID: 11400000, guid: 43713080a20059f4a9e5783dd395e4f7, type: 2}
+    Count: 1
+    SecondaryCount: 15
+    Status: 0
+  - Item: {fileID: 11400000, guid: 5bac8dbb311284b85a00faca85506be6, type: 2}
+    Count: 1
+    SecondaryCount: 0
+    Status: 1
+  - Item: {fileID: 11400000, guid: dc55256a7c75c294cb36173590119c64, type: 2}
+    Count: 1
+    SecondaryCount: 0
+    Status: 0
+  InitialStorageBox:
+    Name: Storage Box
+    Capacity: 80
+    Items: []
+  InitialDocuments: []
+  InitialMaps: []
+  InitialEquipment:
+  - {fileID: 11400000, guid: 5bac8dbb311284b85a00faca85506be6, type: 2}
