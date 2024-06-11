@@ -1,6 +1,6 @@
 # no_title
 
-![no_title](https://github.com/inteiros/no_title/blob/main/Assets/Icon/no_title.png)
+<img src="https://github.com/inteiros/no_title/blob/main/Assets/Icon/no_title.png" alt="no_title" width="400"/>
 
 ## Description
 
