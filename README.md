@@ -26,8 +26,6 @@ Download the installer for **no_title**:
 ## Controls
 
 - **W/A/S/D:** Move character
-- **Mouse:** Look around
-- **E:** Interact
 - **Space:** Jump
 - **Left Mouse Button:** Shoot
 - **R:** Reload
