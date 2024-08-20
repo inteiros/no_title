@@ -1,5 +1,3 @@
-# no_title
-
 <img src="https://github.com/inteiros/no_title/blob/main/Assets/Icon/no_title.png" alt="no_title" width="400"/>
 
 ## Description
@@ -26,8 +24,6 @@ Download the installer for **no_title**:
 ## Controls
 
 - **W/A/S/D:** Move character
-- **Mouse:** Look around
-- **E:** Interact
 - **Space:** Jump
 - **Left Mouse Button:** Shoot
 - **R:** Reload
