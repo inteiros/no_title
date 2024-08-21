@@ -8,7 +8,7 @@
 
 Watch the official trailer of **no_title** on YouTube:
 
-[![Watch the trailer](https://img.youtube.com/vi/PuanXdWOKhI/0.jpg)](https://www.youtube.com/watch?v=PuanXdWOKhI)
+[![Watch the trailer](https://img.youtube.com/vi/PuanXdWOKhI/0.jpg)](https://youtu.be/CLdX-v92GoI)
 
 ## Download
 

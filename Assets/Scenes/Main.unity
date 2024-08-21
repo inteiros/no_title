@@ -23,7 +23,7 @@ RenderSettings:
   m_AmbientSkyColor: {r: 0.212, g: 0.227, b: 0.259, a: 1}
   m_AmbientEquatorColor: {r: 0.114, g: 0.125, b: 0.133, a: 1}
   m_AmbientGroundColor: {r: 0.047, g: 0.043, b: 0.035, a: 1}
-  m_AmbientIntensity: 0.4
+  m_AmbientIntensity: 0.45
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
   m_SkyboxMaterial: {fileID: 10304, guid: 0000000000000000f000000000000000, type: 0}
@@ -12078,6 +12078,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ditheringMaterial: {fileID: 2100000, guid: 64cab35fd802f4a45ba008dc6c53976f, type: 2}
+  ditherThreshold: 155
+  ditherStrength: 2
+  ditherScale: 1
+  patternIndex: 0
 --- !u!1 &979288153
 GameObject:
   m_ObjectHideFlags: 0
